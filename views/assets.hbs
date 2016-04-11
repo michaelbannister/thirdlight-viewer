@@ -1,0 +1,9 @@
+<h1>Assets</h1>
+
+{{#if assets}}
+  <ul>
+    {{#each assets}}
+      <li>{{this.filename}}<a href="{{this.previewUrl}}"><img src="{{this.thumbUrl}}"></a></li>
+    {{/each}}
+  </ul>
+{{/if}}

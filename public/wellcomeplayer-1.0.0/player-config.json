@@ -1,0 +1,20 @@
+{
+  "options": {
+    "theme": "coreplayer-default-theme",
+    "dziBaseUri": "http://player.digirati.co.uk/digitised",
+    "thumbsBaseUri": "http://player.digirati.co.uk/digitised",
+    "mediaBaseUri": "http://player.digirati.co.uk/digitised",
+    "prefetchBaseUri": "http://player.digirati.co.uk/digitised",
+    "searchBaseUri": "http://player.digirati.co.uk/digitised",
+    "autoCompleteBaseUri": "http://player.digirati.co.uk/digitised",
+    "moreInfoBaseUri": "http://player.digirati.co.uk/digitised",
+    "loginBaseUri": "http://player.digirati.co.uk/digitised",
+    "cropBaseUri": "http://player.digirati.co.uk/digitised",
+    "imageBaseUri": "http://player.digirati.co.uk/digitised",
+    "overrideFullScreen": false,
+    "preloadMoreInfo": false,
+    "embedEnabled": true,
+    "downloadEnabled": true,
+    "saveToLightboxEnabled": true
+  }
+}
